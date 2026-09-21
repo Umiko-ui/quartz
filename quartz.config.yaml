@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: Umiko-ui.github.io/quartz
+  baseUrl: umiko-ui.github.io/quartz
   ignorePatterns:
     - private
     - templates
