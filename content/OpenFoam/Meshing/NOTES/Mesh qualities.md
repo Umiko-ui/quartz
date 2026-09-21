@@ -1,0 +1,4 @@
+- [[Orthogonality or non-orthogonality]]
+- [[Skewness]]
+- [[Aspect ratio]]
+- [[Area or volume ratio]]
